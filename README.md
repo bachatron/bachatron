@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bachatron
-- 👀 I’m interested in become a developer and live of this
+- 👀 I’m interested in become a fullstack developer
 - 🌱 I’m currently learning via The Odin Project
 
 <!---
