@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @bachatron
-- 👀 I’m interested in become a fullstack developer
-- 🌱 I’m currently learning via The Odin Project
+# Hi, I'm Ezequiel 👋
 
-<!---
-bachatron/bachatron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Backend-oriented developer with an IT infrastructure background from Argentina.
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+I build web applications using Ruby on Rails, React and PostgreSQL, with a strong focus on debugging, problem solving and AI-assisted development workflows.
+
+## Tech Stack
+
+- Ruby / Ruby on Rails
+- JavaScript / React
+- PostgreSQL
+- Linux
+- Docker
+- Git & GitHub
+- Nginx
+
+## Current Focus
+
+- Building fullstack applications
+- Backend architecture
+- Deployment & infrastructure
+- AI-assisted software development
+- Writing cleaner and more maintainable code
+
+## Featured Projects
+
+- Rails application
+- React application
+- JavaScript drawing grid
+- Battleship game in Ruby
+
+## Learning Journey
+
+Completed the Full Stack Ruby on Rails path from The Odin Project.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/iair-dz/
+- Email: ied420@gmail.com
