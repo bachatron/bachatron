@@ -1,4 +1,4 @@
-# Hi, I'm Ezequiel 👋
+# Hi, I'm Ezequiel
 
 Backend-oriented developer with an IT infrastructure background from Argentina.
 
