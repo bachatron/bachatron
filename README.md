@@ -25,6 +25,12 @@ I build and deploy web applications using Ruby on Rails, React and PostgreSQL, w
 
 ## Featured Projects
 
+# FieldWork
+Private commercial management application built for real-world business usage.
+Designed to manage clients, work orders, reports, file uploads and operational workflows in a production environment.
+
+- Repository: https://github.com/bachatron/FieldWork
+
 # Rails Social Network
 Full-stack social media application built with Rails 8.
 
