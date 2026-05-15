@@ -26,38 +26,32 @@ I build and deploy web applications using Ruby on Rails, React and PostgreSQL, w
 ## Featured Projects
 
 # Rails Social Network
-
 Full-stack social media application built with Rails 8.
 
 Links
-
 - Live Demo: https://rails-social-network.onrender.com
 - Repository: https://github.com/bachatron/rails-social-network
 
 # Messaging App
-
 Messaging platform with separated frontend and backend architecture.
 
 Links
-
--Live demo: https://react-messaging-client.onrender.com
--Frontend Repository: https://github.com/bachatron/messaging-app-frontend
--Backend Repository: https://github.com/bachatron/rails-messaging-api
+- Live demo: https://react-messaging-client.onrender.com
+- Frontend Repository: https://github.com/bachatron/messaging-app-frontend
+- Backend Repository: https://github.com/bachatron/rails-messaging-api
 
 # Waldo
-
 Interactive photo tagging game inspired by Where's Waldo.
 
 Links
-
--Live demo: https://top-waldo-front.onrender.com
--Repository: https://github.com/bachatron/where-is-waldo
+- Live demo: https://top-waldo-front.onrender.com
+- Repository: https://github.com/bachatron/where-is-waldo
 
 # Other Projects
--Battleship
--Chess (Ruby)
--Etch-a-Sketch
--Memory Card Game
+- Battleship
+- Chess (Ruby)
+- Etch-a-Sketch
+- Memory Card Game
 
 ## Learning Journey
 
