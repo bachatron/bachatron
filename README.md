@@ -25,20 +25,20 @@ I build and deploy web applications using Ruby on Rails, React and PostgreSQL, w
 
 ## Featured Projects
 
-# FieldWork
+### FieldWork
 Private commercial management application built for real-world business usage.
 Designed to manage clients, work orders, reports, file uploads and operational workflows in a production environment.
 
 - Repository: https://github.com/bachatron/FieldWork
 
-# Rails Social Network
+### Rails Social Network
 Full-stack social media application built with Rails 8.
 
 Links
 - Live Demo: https://rails-social-network.onrender.com
 - Repository: https://github.com/bachatron/rails-social-network
 
-# Messaging App
+### Messaging App
 Messaging platform with separated frontend and backend architecture.
 
 Links
@@ -46,14 +46,14 @@ Links
 - Frontend Repository: https://github.com/bachatron/messaging-app-frontend
 - Backend Repository: https://github.com/bachatron/rails-messaging-api
 
-# Waldo
+### Waldo
 Interactive photo tagging game inspired by Where's Waldo.
 
 Links
 - Live demo: https://top-waldo-front.onrender.com
 - Repository: https://github.com/bachatron/where-is-waldo
 
-# Other Projects
+### Other Projects
 - Battleship
 - Chess (Ruby)
 - Etch-a-Sketch
